@@ -27,3 +27,8 @@ Calculate and visualize the ROC curve and AUC score.
 The analysis provides insights into survival determinants and assesses the model's predictive ability.
 
 Outcome:
+
+
+
+https://github.com/Bhuvigoud/Titanic-Survival-Prediction-Analysis/assets/129387565/6fffe684-fd8b-4696-b580-30ccf1a887b8
+
